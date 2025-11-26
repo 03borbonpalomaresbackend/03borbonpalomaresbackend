@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure--xlh$a9igpj$-w&q$d8$w57elq6t#ea1cjn1ph^i%@zakc3^b5
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'dorameriosbackend.pythonanywhere.com'
+    '03borbonpalomaresbackend.pythonanywhere.com'
 ]
 
 
@@ -80,10 +80,10 @@ WSGI_APPLICATION = 'burritos_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
- 'NAME': 'dorameriosbacken$burritos_db',
- 'USER': 'dorameriosbacken',
- 'PASSWORD': '7905120906Ladr.',
- 'HOST': 'dorameriosbackend.mysql.pythonanywhere-services.com',
+ 'NAME': '03borbonpalomare$burritos_db',
+ 'USER': '03borbonpalomare',
+ 'PASSWORD': 'Borbonja18',
+ 'HOST': '03borbonpalomaresbackend.mysql.pythonanywhere-services.com',
  'PORT': '3306'
     }
 }
